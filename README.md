@@ -25,24 +25,22 @@ The goal of this project is to predict a categorical target variable ("country_d
 ## Files and Directories
 
 - `data/`: Directory containing the dataset files.
-- `notebooks/`: Jupyter notebooks for data exploration, preprocessing, and modeling.
-- `models/`: Trained model files.
-- `src/`: Source code for preprocessing, modeling, and evaluation.
+- `model_selection/`: Trained model files.
 - `README.md`: This file providing an overview of the project.
+- and more
 
 ## Requirements
 
 - Python 3.x
-- Required libraries are listed in `requirements.txt`.
 
 ## Getting Started
 
 1. Clone this repository.
-2. Install the required libraries using `pip install -r requirements.txt`.
-3. Run the Jupyter notebooks in the `notebooks/` directory for data exploration, preprocessing, and modeling.
-4. Train and evaluate the model using the provided source code in the `src/` directory.
-5. Make predictions for the test dataset and prepare a submission file.
-
+2. Install the required libraries
+3. analysing
+4. cleaning
+5. modeling
+   
 ## Results
 
 Document the results of your model, including evaluation metrics and any insights gained from the analysis.
@@ -55,4 +53,4 @@ Discuss any challenges faced during the project and potential areas for improvem
 
 This project is licensed under the [MIT License](LICENSE).
 
-Feel free to contact me at [your@email.com] for any questions or collaborations.
+Feel free to contact us for any questions or collaborations.
