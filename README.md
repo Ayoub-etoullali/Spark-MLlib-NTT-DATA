@@ -43,11 +43,17 @@ The goal of this project is to predict a categorical target variable ("country_d
    
 ## Results
 
-Document the results of your model, including evaluation metrics and any insights gained from the analysis.
+### Kaggle
+
+![image](https://github.com/Ayoub-etoullali/Spark-MLlib-NTT-DATA/assets/92756846/aed25990-00a4-405f-b349-854c8273c746)
+
+### Predicted Country Distribution
+
+![image](https://github.com/Ayoub-etoullali/Spark-MLlib-NTT-DATA/assets/92756846/5abbda48-3da1-4e6b-ac1a-bb67a775b7a3)
 
 ## Challenges and Future Work
 
-Discuss any challenges faced during the project and potential areas for improvement in the future.
+Improvements in the database with other evaluation tests
 
 ## License
 
