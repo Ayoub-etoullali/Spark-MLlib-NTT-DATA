@@ -1,0 +1,6 @@
+performance metrics
+TF-IDF vectorizer
+boxplot
+tokenisation
+data stacking
+Discounted cumulative gain (DCG)
